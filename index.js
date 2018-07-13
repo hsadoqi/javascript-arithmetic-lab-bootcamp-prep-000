@@ -15,7 +15,7 @@ function divide(a,b){
 }
 
 function inc(n){
-  n = 400
-  return n++
+  n++
+  console.log(n)
 }
 
